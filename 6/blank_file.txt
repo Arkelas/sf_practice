@@ -1,2 +1,2 @@
 This file is blank
-Using it ad motd file
+Using it as motd file
